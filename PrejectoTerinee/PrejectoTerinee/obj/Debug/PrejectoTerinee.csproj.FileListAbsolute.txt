@@ -1,0 +1,8 @@
+c:\users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\bin\Debug\PrejectoTerinee.exe.config
+c:\users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\bin\Debug\PrejectoTerinee.exe
+c:\users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\bin\Debug\PrejectoTerinee.pdb
+c:\users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\obj\Debug\PrejectoTerinee.exe
+c:\users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\obj\Debug\PrejectoTerinee.pdb
+C:\Users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\obj\Debug\PrejectoTerinee.csprojResolveAssemblyReference.cache
+C:\Users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\obj\Debug\PrejectoTerinee.ProjetoTreinee.resources
+C:\Users\trainee\documents\visual studio 2015\Projects\PrejectoTerinee\PrejectoTerinee\obj\Debug\PrejectoTerinee.csproj.GenerateResource.Cache

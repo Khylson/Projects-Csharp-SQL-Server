@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContasBancarias", "ContasBancarias\ContasBancarias.csproj", "{218E1055-762A-4AD5-9AFE-958F348C7CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{A5E29A40-2C2A-4C3C-883F-C3E154136951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218E1055-762A-4AD5-9AFE-958F348C7CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218E1055-762A-4AD5-9AFE-958F348C7CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218E1055-762A-4AD5-9AFE-958F348C7CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218E1055-762A-4AD5-9AFE-958F348C7CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E29A40-2C2A-4C3C-883F-C3E154136951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E29A40-2C2A-4C3C-883F-C3E154136951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E29A40-2C2A-4C3C-883F-C3E154136951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E29A40-2C2A-4C3C-883F-C3E154136951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
